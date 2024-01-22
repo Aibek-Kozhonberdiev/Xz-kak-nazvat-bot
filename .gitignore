@@ -1,0 +1,10 @@
+### Bot ###
+.env
+__pycache__/
+
+### IDE ###
+.idea
+.vscode
+
+### Mac OS ###
+.DS_Store
